@@ -7,5 +7,11 @@ Symmetry Methods in Finance, Applications of Lie Groups, Lie Algebra.
 
 [Geometrical Properties of Differential Equations: Applications of the Lie Group Analysis in Financial Mathematics](https://www.worldscientific.com/worldscibooks/10.1142/9549)
 
+[Lie symmetry methods for multi-dimensional parabolic PDEs and diffusions](https://doi.org/10.1016/j.jde.2011.09.024)
+
+[Lie symmetry methods in finance: an example of the bond pricing equation](https://www.researchgate.net/publication/44262087_Lie_Symmetry_Methods_in_Finance_-_An_Example_of_the_Bond_Pricing_Equation)
+
+
+
 
 
