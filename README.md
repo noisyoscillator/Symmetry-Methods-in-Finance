@@ -17,6 +17,9 @@ Symmetry Methods in Finance, Applications of Lie Groups, Lie Algebra.
 
 [Differential Equations: Their Solution Using Symmetries](https://www.cambridge.org/gb/academic/subjects/physics/theoretical-physics-and-mathematical-physics/differential-equations-their-solution-using-symmetries)
 
+[Interest rate models on Lie groups](https://www.tandfonline.com/doi/abs/10.1080/14697680903468963?src=recsys&journalCode=rquf20)
+
+
 
 
 
