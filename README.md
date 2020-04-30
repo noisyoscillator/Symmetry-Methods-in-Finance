@@ -11,6 +11,15 @@ Symmetry Methods in Finance, Applications of Lie Groups, Lie Algebra.
 
 [Lie symmetry methods in finance: an example of the bond pricing equation](https://www.researchgate.net/publication/44262087_Lie_Symmetry_Methods_in_Finance_-_An_Example_of_the_Bond_Pricing_Equation)
 
+[Symmetry Methods for Differential Equations: A Beginner's Guide](https://www.cambridge.org/core/books/symmetry-methods-for-differential-equations/805DEEB7D5D0D2040A3A8444B1C8A33E)
+
+[Symmetry Analysis of Differential Equations: An Introduction](https://www.wiley.com/en-us/Symmetry+Analysis+of+Differential+Equations%3A+An+Introduction-p-9781118721407)
+
+[Differential Equations: Their Solution Using Symmetries](https://www.cambridge.org/gb/academic/subjects/physics/theoretical-physics-and-mathematical-physics/differential-equations-their-solution-using-symmetries)
+
+
+
+
 
 
 
