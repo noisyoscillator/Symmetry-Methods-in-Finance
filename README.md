@@ -27,6 +27,13 @@ Symmetry Methods in Finance, Applications of Lie Groups, Lie Algebra.
 
 [Group Properties of the Black Scholes Equation & its Solutions] (https://www.researchgate.net/publication/252609202_Group_Properties_of_the_Black_Scholes_Equation_its_Solutions)
 
+[The Calculation of Expectations for Classes of Diffusion Processes by Lie Symmetry Methods](https://arxiv.org/abs/0902.4806)
+
+[Lie symmetry methods for multi-dimensional parabolic PDEs and diffusions](https://doi.org/10.1016/j.jde.2011.09.024)
+
+[Symmetry group methods for heat kernels](http://dx.doi.org/10.1063/1.1316763)
+
+[Symmetry group methods for fundamental solutions](https://doi.org/10.1016/j.jde.2004.07.026)
 
 
 
