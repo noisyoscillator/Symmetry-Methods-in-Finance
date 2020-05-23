@@ -19,6 +19,15 @@ Symmetry Methods in Finance, Applications of Lie Groups, Lie Algebra.
 
 [Interest rate models on Lie groups](https://www.tandfonline.com/doi/abs/10.1080/14697680903468963?src=recsys&journalCode=rquf20)
 
+[Lie Symmetry Analysis of the Black-Scholes-Merton Model for European Options with Stochastic Volatility](https://arxiv.org/abs/1508.06797)
+
+[Lie symmetry methods for local volatility models](https://doi.org/10.1016/j.spa.2019.10.009)
+
+[Lie-algebraic approach for pricing moving barrier options with time-dependent parameters](https://doi.org/10.1016/j.jmaa.2005.11.068)
+
+[Group Properties of the Black Scholes Equation & its Solutions] (https://www.researchgate.net/publication/252609202_Group_Properties_of_the_Black_Scholes_Equation_its_Solutions)
+
+
 
 
 
