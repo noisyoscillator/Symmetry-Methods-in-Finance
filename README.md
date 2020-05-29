@@ -35,6 +35,16 @@ Symmetry Methods in Finance, Applications of Lie Groups, Lie Algebra.
 
 [Symmetry group methods for fundamental solutions](https://doi.org/10.1016/j.jde.2004.07.026)
 
+[Valuation of Financial Derivatives with Time-Dependent Parameters: Lie-Algebraic Approach](https://ssrn.com/abstract=984135)
+
+[Lie Symmetry Analysis of Differential Equations in Finance](https://doi.org/10.1023/A:1008304132308)
+
+[The Reduction Method for Valuing Derivative Securities](https://www.researchgate.net/publication/2860358_The_Reduction_Method_for_Valuing_Derivative_Securities)
+
+[Invariance properties of a general bond-pricing equation](https://doi.org/10.1016/j.jde.2008.02.044)
+
+
+
 
 
 
