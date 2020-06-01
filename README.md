@@ -43,7 +43,7 @@ Symmetry Methods in Finance, Applications of Lie Groups, Lie Algebra.
 
 [Invariance properties of a general bond-pricing equation](https://doi.org/10.1016/j.jde.2008.02.044)
 
-
+[Exact solutions for time-fractional Fokker–Planck–Kolmogorov equation of Geometric Brownian motion via Lie point symmetries](https://doi.org/10.1142/S2424786318500093)
 
 
 
