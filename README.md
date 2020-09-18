@@ -45,11 +45,8 @@ Symmetry Methods in Finance, Applications of Lie Groups, Lie Algebra.
 
 [Exact solutions for time-fractional Fokker–Planck–Kolmogorov equation of Geometric Brownian motion via Lie point symmetries](https://doi.org/10.1142/S2424786318500093)
 
+Lie Symmetry Analysis of Differential Equations in Finance
 
+Conservation laws for the Black–Scholes equation
 
-
-
-
-
-
-
+Symmetry of stochastic non-variational differential equations
